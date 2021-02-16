@@ -15,7 +15,6 @@
 using namespace std;
 
 int main() {
-	cout << "BRUH" << endl;
 	vector<process> myProcesses;
 
 	//assumme failure
